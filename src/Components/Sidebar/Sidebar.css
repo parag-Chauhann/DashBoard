@@ -1,0 +1,89 @@
+.left{
+    width:200px;
+    height: 850px;
+    background-color: #f3f3f3;
+    display: inline-block;
+
+}
+.sidebar-main{
+    width: 200px;
+
+    
+    
+}
+.sidebar{
+    display: flex;
+    margin: 0px 0px 10px 20px;
+    border:2px solid red
+}
+
+.sidebar:hover{
+    background-color: #c5c5c5;
+}
+
+
+.sidebar-icon{
+    height: 30px;
+    width: auto;
+}
+
+
+.sidebar-title{
+    margin: 10px 0px 10px 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    
+}
+
+.sidebar-footer{
+    margin-top: 300px;
+}
+
+.sidebar-header-icon{
+    background: rgb(229,169,231);
+    background: linear-gradient(90deg, rgba(229,169,231,1) 49%, rgba(0,212,255,1) 100%);    
+    border-radius: 50%;
+    height: 30px;
+    padding: 8px;
+    margin: 10px 0px 0px 10px;
+
+}
+
+.sidebar-header-icon:hover{
+    background: rgb(189,42,194);
+    background: linear-gradient(90deg, rgba(189,42,194,1) 49%, rgba(0,212,255,1) 100%);
+    cursor: pointer;
+
+}
+
+.sidebar-header{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.sidebar-header-title{
+    margin: 20px 0px 10px 10px;
+    font-size: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+.sidebar-header-title:hover{
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    border-radius: 10px;
+
+}
+
+.sidebar-menu{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+
+.menu-hover:hover{
+    background-color: rgb(168, 166, 166) !important;
+    cursor: pointer;
+}
+
+#hard-hover:hover{
+    color: red
+}

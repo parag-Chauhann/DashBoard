@@ -1,0 +1,50 @@
+.header{
+    margin-top:-850px ;
+    margin-left:200px ;
+    margin-bottom:590px ;
+    height: 50px;
+    width: 85%;
+    display: flex;
+
+}
+
+.header-logo{
+    background-color: #f3f3f3;
+    height: 40px;
+    margin: 4px 0px 4px 0px;
+    padding: 2px;
+    width: 35px;
+    border-radius: 10px;
+}
+
+.logo{
+    height: 30px;
+    width: 30px;
+    margin-top: 5px ;
+}
+
+.logo:hover{
+    cursor: pointer;
+    background-color: gainsboro
+
+
+}
+
+.dropdown{
+    margin-left:10px ;
+    margin-top: 15px ;
+    border: 2px solid white;
+}
+
+.profile{
+    margin-left: 950PX;
+}
+
+.profile-name{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    margin-left:20px ;
+    margin-top: 15px ;
+    border: 2px solid white;
+
+}

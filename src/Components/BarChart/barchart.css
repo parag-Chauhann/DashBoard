@@ -1,0 +1,20 @@
+.visits{
+    display: flex;
+}
+
+.barchart{
+    margin-top:40px;
+    margin-left: 215px;
+    margin-bottom: 50px;
+    height: 400px;
+    Width: 35vw;
+    background-color: #f3f3f3;
+    border-radius: 20px;
+    padding: 10px;
+    display: inline-block;
+}
+
+.visits-number{
+    color:#7168e8;
+    margin-left: 280px;
+}

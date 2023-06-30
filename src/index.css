@@ -1,0 +1,22 @@
+.App{
+  height: 850px;
+}
+
+.BarChart-cointainer{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+.cointainer{
+  display: flex;
+  margin-left: 230px;
+  gap: 80px;
+}
+
+.projectData-cointainer{
+  margin-left: 40px;
+  gap: 40px;
+  display: inline-block;
+
+}
